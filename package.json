@@ -1,0 +1,13 @@
+{
+  "author": {
+    "email": "",
+    "name": ""
+  },
+  "dependencies": {
+    "backbone": "^1.2.3"
+  },
+  "description": "nodetest",
+  "name": "nodetest",
+  "private": true,
+  "version": "0.0.0"
+}
